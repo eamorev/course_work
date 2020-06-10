@@ -1,0 +1,25 @@
+﻿<Window x:Class="AirportDatabase.Departures"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AirportDatabase"
+        mc:Ignorable="d"
+        Title="Departures" Height="450" Width="800" Background="#222431" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Destination" Margin="0,0,640,0" FontSize="28" HorizontalAlignment="Center" Foreground="White" FontWeight="Light"></TextBlock>
+        <TextBlock Grid.Row="0" Text="Departure" Margin="0,0,340,0" FontSize="28" HorizontalAlignment="Center" Foreground="White" FontWeight="Light"></TextBlock>
+        <TextBlock Grid.Row="0" Text="Flight" Margin="0,0,80,0" FontSize="28" HorizontalAlignment="Center" Foreground="White" FontWeight="Light"></TextBlock>
+        <TextBlock Grid.Row="0" Text="Airline" Margin="130,0,0,0" FontSize="28" HorizontalAlignment="Center" Foreground="White" FontWeight="Light"></TextBlock>
+        <TextBlock Grid.Row="0" Text="Terminal" Margin="410,0,0,0" FontSize="28" HorizontalAlignment="Center" Foreground="White" FontWeight="Light"></TextBlock>
+        <TextBlock Grid.Row="0" Text="Status" Margin="640,0,0,0" FontSize="28" HorizontalAlignment="Center" Foreground="White" FontWeight="Light"></TextBlock>
+        <ListBox Grid.Row="1" Background="#222431"  BorderBrush="DeepSkyBlue" BorderThickness="2" Margin="0,0,0,0" Height="370" VerticalAlignment="Top"  Foreground="White"  FontSize="35" Width="Auto" Name="Departure_List" SelectionChanged="Departure_List_SelectionChanged"></ListBox>
+
+    </Grid>
+</Window>
+        
+

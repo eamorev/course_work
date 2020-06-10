@@ -1,0 +1,25 @@
+﻿<Window x:Class="AirportDatabase.Timetable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AirportDatabase"
+        mc:Ignorable="d"
+        Title="Timetable" Height="450" Width="800" Background="#222431">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock  Grid.Row="0"  Text="Flight "  Margin="270,0,0,0" FontSize="28" Foreground="White" FontWeight="Black" ></TextBlock>
+        <TextBlock  Grid.Row="0"  Text=" Timetable"  Margin="350,0,0,0" FontSize="28" Foreground="DeepSkyBlue" FontWeight="Black" ></TextBlock>
+        <TextBlock Grid.Row="0" Text="Destination" Margin="50,89,0,0" FontSize="28" Foreground="White" FontWeight="DemiBold" ></TextBlock>
+        <TextBlock Grid.Row="1" Text="Choose Flight Date" Margin="50,30,0,0" FontSize="28" Foreground="White" FontWeight="DemiBold" ></TextBlock>
+        <TextBlock Grid.Row="0" Text="Airline" Margin="50,145,0,0" FontSize="28" Foreground="White" FontWeight="DemiBold" ></TextBlock>
+        <TextBox Grid.Row="0" Name="Destination" BorderBrush="DeepSkyBlue" BorderThickness="2" Margin="110,108,0,0"  Width="480" Height="35" ></TextBox>
+        <TextBox Grid.Row="0" Name="Airline" BorderBrush="DeepSkyBlue" BorderThickness="2" Margin="110,0,0,0"  Width="480" Height="35" ></TextBox>
+        <Button Grid.Row="1"  Background="#222431" BorderBrush="DeepSkyBlue" BorderThickness="2"  Foreground="DeepSkyBlue" Content="🔍Seach" FontSize="28" Height="45" Width="135" Margin="600,100,0,0" Name="Search_Button" Click="Search_Button_Click"></Button>
+        <DatePicker Grid.Row="1" VerticalAlignment="Center" Margin="0,0,104,110" Width="350" Height="41" FontSize="25"  HorizontalAlignment="Right" Name="Choose_Date"></DatePicker>
+        
+    </Grid>
+</Window>

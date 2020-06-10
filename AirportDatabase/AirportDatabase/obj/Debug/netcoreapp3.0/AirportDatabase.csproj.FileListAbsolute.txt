@@ -1,0 +1,50 @@
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.exe
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.deps.json
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.runtimeconfig.json
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.runtimeconfig.dev.json
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.dll
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.pdb
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.csprojAssemblyReference.cache
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Arrivals.g.cs
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Departures.g.cs
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Timetable.g.cs
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase_MarkupCompile.cache
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase_MarkupCompile.lref
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Arrivals.baml
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Departures.baml
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Timetable.baml
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.g.resources
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.AssemblyInfoInputs.cache
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.AssemblyInfo.cs
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.dll
+C:\Users\hatiko\source\repos\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.pdb
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.exe
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.deps.json
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.runtimeconfig.json
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.runtimeconfig.dev.json
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.dll
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\bin\Debug\netcoreapp3.0\AirportDatabase.pdb
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.csprojAssemblyReference.cache
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Arrivals.g.cs
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Departures.g.cs
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Flight.g.cs
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Timetable.g.cs
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase_MarkupCompile.cache
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase_MarkupCompile.lref
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Arrivals.baml
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Departures.baml
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Flight.baml
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\Timetable.baml
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.g.resources
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.AssemblyInfoInputs.cache
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.AssemblyInfo.cs
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.dll
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.pdb
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\AirportDatabase.genruntimeconfig.cache

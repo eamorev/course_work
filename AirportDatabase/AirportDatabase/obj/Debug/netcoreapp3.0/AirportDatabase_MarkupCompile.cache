@@ -1,0 +1,20 @@
+﻿AirportDatabase
+
+
+winexe
+C#
+.cs
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\obj\Debug\netcoreapp3.0\
+AirportDatabase
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0
+C:\Users\Pavel Petrov\Desktop\AirportDatabase\AirportDatabase\App.xaml
+5-620011290
+
+61135725303
+19236377243
+Arrivals.xaml;Departures.xaml;Flight.xaml;MainWindow.xaml;Timetable.xaml;
+
+False
+
